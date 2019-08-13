@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: amdocs.challenge2.MarkdownParserTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.072 s - in amdocs.challenge2.MarkdownParserTests

@@ -1,0 +1,5 @@
+amdocs\challenge\challenge4\controller\ArticleController.class
+amdocs\challenge\challenge4\Application.class
+amdocs\challenge\challenge4\controller\ArticleRepo.class
+amdocs\challenge\challenge4\beans\Article.class
+amdocs\challenge\challenge4\controller\ArticleService.class
